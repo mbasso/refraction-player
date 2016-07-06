@@ -1,9 +1,9 @@
 # Refraction Player
 
-[![Travis](https://img.shields.io/travis/mbasso/refraction-player.svg?maxAge=2592000)](https://travis-ci.org/mbasso/refraction-player)
+[![Build Status](https://travis-ci.org/mbasso/refraction-player.svg?branch=master)](https://travis-ci.org/mbasso/refraction-player)
 [![npm version](https://img.shields.io/npm/v/refraction-player.svg)](https://www.npmjs.com/package/refraction-player)
 [![npm downloads](https://img.shields.io/npm/dm/refraction-player.svg?maxAge=2592000)](https://www.npmjs.com/package/refraction-player)
-[![Coveralls](https://img.shields.io/coveralls/mbasso/refraction-player.svg?maxAge=2592000)](https://coveralls.io/github/mbasso/refraction-player)
+[![Coverage Status](https://coveralls.io/repos/github/mbasso/refraction-player/badge.svg?branch=master)](https://coveralls.io/github/mbasso/refraction-player?branch=master)
 
 > An events player for refraction
 

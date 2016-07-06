@@ -7,7 +7,7 @@
 
 > An events player for refraction
 
-Refraction Player is a small library that allow you to play a list of events with refraction. [Here](https://mbasso.github.com/refraction/docs/basics/Replay.html) you can see its idea. Refraction Player can be used to automate some process, testing and debugging. If we want to test something we can prepare a series of events and use Refraction Player to play them in order to see how our application react to these events. If we want to find a bug after an application crash, we can send Refraction history to our server and replay events to identify the problem. Finally if we want to automate some process, we can prepare a list of events and play them to achieve this result.
+Refraction Player is a small library that allow you to play a list of events with refraction. [Here](https://mbasso.github.io/refraction/docs/basics/Replay.html) you can see its idea. Refraction Player can be used to automate some process, testing and debugging. If we want to test something we can prepare a series of events and use Refraction Player to play them in order to see how our application react to these events. If we want to find a bug after an application crash, we can send Refraction history to our server and replay events to identify the problem. Finally if we want to automate some process, we can prepare a list of events and play them to achieve this result.
 For example, we can create an automatic tutorial for application using this tool.
 
 ## Installation
@@ -44,7 +44,7 @@ At this point `play` is a function that returns nothing and accept an object wit
 
 You can find an example of Refraction Player in Refraction repository [here](). Alternatively, you can check [awesome-refraction](https://github.com/mbasso/awesome-refraction).
 
-If you want to run examples, check out the instruction [here](https://mbasso.github.com/refraction/docs/introduction/Examples.html).
+If you want to run examples, check out the instruction [here](https://mbasso.github.io/refraction/docs/introduction/Examples.html).
 
 ## Change Log
 
